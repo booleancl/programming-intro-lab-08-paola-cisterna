@@ -7,5 +7,6 @@ first_dict = {
   "skills": ["Python", "Git", "HTML","CSS","Javascript"]
 }
 
-# print(first_dict) 
+print(first_dict["name"]) 
+print(first_dict["skills"])
 
